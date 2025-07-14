@@ -1,0 +1,11 @@
+{
+  "tt16311594": {
+    "title": "5-Minute Morning Workout",
+    "links": {
+      "low": "https://pixeldra.in/api/file/example480p?download",
+      "medium": "https://pixeldra.in/api/file/example720p?download",
+      "high": "https://pixeldra.in/api/file/example1080p?download",
+      "stream": "https://vidsrc.me/embed/movie?imdb=tt16311594"
+    }
+  }
+}
